@@ -42,3 +42,4 @@ Notes and usage details for Awesome-Diffusion-LLM.
 - link the usage section
 - link the usage section
 - clarify the setup steps
+- link the usage section
