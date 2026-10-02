@@ -58,3 +58,4 @@ Notes and usage details for Awesome-Diffusion-LLM.
 - add a note about the defaults
 - clarify the setup steps
 - add a note about the defaults
+- link the usage section
